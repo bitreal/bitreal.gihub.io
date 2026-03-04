@@ -1,11 +1,12 @@
 ---
 title: "Stylized Ocean Waves Shader (Mobile)"
 date: 2026-03-04
-youtubeId: putYourIDHere
+youtubeId: Yll0FkENTBs
 ---
 # Overview
 
 {% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=Yll0FkENTBs %}
 
 Over the past few weeks, I’ve been working on a stylized ocean water shader for a mobile game, Amikin Village. I’m really happy with how the wave animation turned out, so I wanted to share the result and the core idea behind it.
 
