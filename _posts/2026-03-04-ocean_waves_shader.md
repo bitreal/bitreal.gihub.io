@@ -8,17 +8,11 @@ Over the past few weeks, I’ve been working on a stylized ocean water shader fo
 
 In-game view:
 
-https://github.com/user-attachments/assets/2bd97951-1d4e-4e53-a3af-516d16199b0d
-
 {% include youtubePlayer.html id="mmsIuUSONTk" %}
-
-https://github.com/user-attachments/assets/3d3ba148-fbf8-47b4-964a-d95f7a9bbfd9
 
 {% include youtubePlayer.html id="qA5nN7JzrqY" %}
 
 Top view:
-
-https://github.com/user-attachments/assets/919e172f-07ac-4e52-9690-dd4c35bb884e
 
 {% include youtubePlayer.html id="hQkNpac_pMQ" %}
 
@@ -88,8 +82,6 @@ half wavePhase = distanceToWaveStart / _WaveLength + _Time.y / _WaveSpeed;
 wavePhase = frac(wavePhase);
 ```
 
-https://github.com/user-attachments/assets/202c761d-4e19-4c89-997e-04a34b035d73
-
 {% include youtubePlayer.html id="mOp2hao5M_Q" %}
 
 Then I wrap the wave phase with a ramp (1D texture) to fine-tune the wave height.
@@ -111,8 +103,6 @@ positionWS.y += heigthOffset;
 ```
 
 All together:
-
-https://github.com/user-attachments/assets/f4480d00-ba81-4cb3-8369-8340d93130bb
 
 {% include youtubePlayer.html id="jxFH7nah2XY" %}
 
