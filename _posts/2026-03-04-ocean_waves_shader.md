@@ -5,7 +5,7 @@ date: 2026-03-04
 # Overview
 
 <video controls width="640">
-  <source src="assets/2026-03-04-ocean_waves_shader/Movie_001.mp4" type="video/mp4">
+  <source src="/assets/2026-03-04-ocean_waves_shader/Movie_001.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео.
 </video>
 
